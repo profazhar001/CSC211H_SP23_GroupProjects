@@ -59,7 +59,7 @@ team's main fork, will be able to simply push to their own fork as they please.
 ## Submission
 Once you have completed your project, you will need to submit it to this repo. If you originally forked this repo,
 this will be as simple as making a pull request from your team's fork to this repo. There should be **ONE** directory
-added to `gp_sp23` in your pull request (though you can have subdirectories within your team's directory as you please).
+added to `Submissions/` in your pull request (though you can have subdirectories within your team's directory as you please).
 The name of the directory should be your team name, and it should contain a `README.md` file that contains the
 following information:
 
