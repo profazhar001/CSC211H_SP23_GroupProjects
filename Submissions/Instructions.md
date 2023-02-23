@@ -38,6 +38,9 @@ You may find it useful to have your teammates review your code via pull requests
 Also, generally speaking, the more people that have full access to a repo, the more likely it is that somebody will
 make a mistake using git that could cause problems for the whole team.
 
+But as you can imagine, having to review every additional commit will slow things down. Balancing development speed
+and safety is one of the many challenges real developers face every day.
+
 
 
 ## Working
