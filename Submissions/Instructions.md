@@ -74,3 +74,33 @@ it should **NOT** include any of the following:
 * `.git` directory
 * `.idea/.solution/etc..` directory (anything made by IDE's)
 * `.exe` files (or anything else that is executable)
+
+##  Notes:
+If you have forgotten or do not know some of the commands I have referenced in this document, here is a short list of them and their usages.
+For more details, visit [git_scm](https://git-scm.com/) or Google (git is probably the most used software by developers, so there are plenty of resources online).
+```
+git clone <link_to_repo>
+# clones repository to your shell's working dir
+
+git add <file(s) with changes>
+# stages changes
+
+git commit -m <message>
+# commits staged changes
+
+git fetch <remote>
+# fetches all remote branches (does not affect your local branches)
+
+git merge <branch>
+# incorporates commits from <branch> into your current branch
+
+git pull <remote>
+# fetches all remotes and merges them into your local branches
+# basically equal to git fetch <remote> followed by git merge origin/<current-branch>
+
+git push <remote> <branch>
+# pushes changes from current branch, moves remote HEAD to latest commit
+
+For forking and pull requests, do so in your browser in GitHub.
+```
+
