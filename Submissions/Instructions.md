@@ -100,7 +100,6 @@ git pull <remote>
 
 git push <remote> <branch>
 # pushes changes from current branch, moves remote HEAD to latest commit
-
-For forking and pull requests, do so in your browser in GitHub.
 ```
 
+For forking and pull requests, do so in your browser in GitHub.
